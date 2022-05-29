@@ -37,3 +37,9 @@ $(function(){
         arrows: false,
     });
 });
+
+/* 
+Testing comment 
+It's porpose testing local terminal
+
+*/
